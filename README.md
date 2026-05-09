@@ -56,4 +56,4 @@ python main.py
 
 ## Author
 
-PMYLS
+NIMRA FARYAL
