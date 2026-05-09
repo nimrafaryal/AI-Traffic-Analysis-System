@@ -1,6 +1,8 @@
 # AI Traffic Analysis System 🚦
 
 An AI-powered Computer Vision project built using Python, OpenCV, and YOLOv11 for real-time traffic analysis and vehicle counting.
+<img width="662" height="389" alt="1" src="https://github.com/user-attachments/assets/d1fc0689-87fe-4e1e-9673-317d3a264502" />
+<img width="667" height="392" alt="2" src="https://github.com/user-attachments/assets/e2136397-7f56-47bf-85d3-49da6700da20" />
 
 ## Features
 
